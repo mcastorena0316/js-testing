@@ -20,7 +20,7 @@ We built the following functions/objects and their test suites. We ensured that 
 
 - capitalize(string) -> a function that takes a string and returns that string with the first character capitalized.
 - reverseString(string) -> a function that takes a string and returns it reversed.
-- caesarCipher -> a function that eencrypt and decrypt strings.
+- caesarCipher -> a function that encrypts and decrypts strings.
 - calculator  -> an object that contains the basic operations: add, subtract, divide, and multiply.
 - analysis -> a function that takes an array of numbers and returns an object with the following properties: average, min, max, and length.
 
